@@ -6,5 +6,4 @@ Keylogger is a software which captures keystrokes of the user. It generally runs
 Future Scope
 ============
 Add custom invocation.
-Add remote operation and data logging.
-this is interesting
+Add remote operation and data logging (Interesting!!)
